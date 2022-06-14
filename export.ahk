@@ -1,22 +1,3 @@
-;~ -----------------------------------------------------------------------------
-;~ Name:               WinSCP Class
-;~ http://lipkau.github.io/WinSCP.ahk/
-;~ -----------------------------------------------------------------------------
-;~ Version:            1.1.0
-;~ Date:               2015-06-20
-;~ Author:             Lipkau, Oliver <oliver@lipkau.net>
-;~                     https://github.com/lipkau
-;~                     http://oliver.lipkau.net/blog
-;~ -----------------------------------------------------------------------------
-;~ TODO:
-;~ 		- Try/Catch if dll is not registered?
-;~ 		- Allow dll to be outside A_ScriptDir?
-;~ 		- better documentation
-;~ 		- more methods
-;~ 		- more events
-;~ 		- cleanup
-
-
 ;~ -----------------------------------------------------
 ;~  Enumerations
 ;~ -----------------------------------------------------
